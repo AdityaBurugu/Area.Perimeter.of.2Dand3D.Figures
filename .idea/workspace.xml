@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3409c53f-908c-4c8c-95c5-a6c780d02177" name="Default Changelist" comment="" />
+    <list default="true" id="3409c53f-908c-4c8c-95c5-a6c780d02177" name="Default Changelist" comment="Main file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +60,27 @@
       <option name="presentableId" value="Default" />
       <updated>1594451183722</updated>
     </task>
+    <task id="LOCAL-00001" summary="Figures file">
+      <created>1594451768783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594451768783</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Main file">
+      <created>1594451813116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594451813116</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Figures file" />
+    <MESSAGE value="Main file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="505" y="259" key="Github.ShareDialog" timestamp="1594451464350">
